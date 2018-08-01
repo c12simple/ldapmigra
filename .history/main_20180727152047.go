@@ -1,0 +1,7 @@
+package ldapmigra
+
+import(
+	
+)
+
+main()

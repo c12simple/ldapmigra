@@ -1,0 +1,4 @@
+package cellsldap
+
+
+type CellsLdap
